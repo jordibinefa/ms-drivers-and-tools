@@ -1,5 +1,7 @@
 #! /usr/bin/python3
-
+# wiki.binefa.cat - 20180802
+# Use:
+# python3 certToArduino_01.py ca.crt arduinoCode.ino
 import sys
 
 if len(sys.argv) == 2 or len(sys.argv) == 3:
